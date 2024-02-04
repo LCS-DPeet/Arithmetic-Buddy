@@ -10,7 +10,7 @@
 		C1C5EA322B6EF30E00BCC38C /* Arithmetic_BuddyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1C5EA312B6EF30E00BCC38C /* Arithmetic_BuddyApp.swift */; };
 		C1C5EA362B6EF31000BCC38C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C1C5EA352B6EF31000BCC38C /* Assets.xcassets */; };
 		C1C5EA392B6EF31000BCC38C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C1C5EA382B6EF31000BCC38C /* Preview Assets.xcassets */; };
-		C1C5EA412B6EF34400BCC38C /* AdditionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1C5EA402B6EF34400BCC38C /* AdditionView.swift */; };
+		C1C5EA452B6F29F800BCC38C /* AdditonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1C5EA442B6F29F800BCC38C /* AdditonView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -18,7 +18,7 @@
 		C1C5EA312B6EF30E00BCC38C /* Arithmetic_BuddyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Arithmetic_BuddyApp.swift; sourceTree = "<group>"; };
 		C1C5EA352B6EF31000BCC38C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C1C5EA382B6EF31000BCC38C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		C1C5EA402B6EF34400BCC38C /* AdditionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdditionView.swift; sourceTree = "<group>"; };
+		C1C5EA442B6F29F800BCC38C /* AdditonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdditonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,7 +70,7 @@
 		C1C5EA3F2B6EF32F00BCC38C /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				C1C5EA402B6EF34400BCC38C /* AdditionView.swift */,
+				C1C5EA442B6F29F800BCC38C /* AdditonView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -145,7 +145,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C1C5EA412B6EF34400BCC38C /* AdditionView.swift in Sources */,
+				C1C5EA452B6F29F800BCC38C /* AdditonView.swift in Sources */,
 				C1C5EA322B6EF30E00BCC38C /* Arithmetic_BuddyApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
